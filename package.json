@@ -15,6 +15,7 @@
   "bugs": {
     "url": "https://github.com/distros/jquery-ui/issues"
   },
+  "main": false,
   "homepage": "https://github.com/distros/jquery-ui",
   "devDependencies": {
     "glob": "^4.3.2",
